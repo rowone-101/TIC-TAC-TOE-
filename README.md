@@ -1,3 +1,4 @@
+
 TIC TAC TOE
 
 A desktop Tic Tac Toe game built with Python's Tkinter, featuring:
@@ -38,3 +39,6 @@ The AI (playing as O) uses the minimax algorithm to search every possible sequen
 License
 
 Feel free to use, modify, and share this project.
+
+<img width="480" height="650" alt="Screenshot 2026-07-03 091423" src="https://github.com/user-attachments/assets/ef49d415-f038-4e92-b0e1-885898f29ae0" />
+<img width="480" height="650" alt="Screenshot 2026-07-03 091448" src="https://github.com/user-attachments/assets/c7f22103-e0c4-4751-ab41-1783368320a7" />
